@@ -16,9 +16,3 @@ Bill.change_age_()
 print(Bill.age)
 
 # hi
-# hi
-# hi
-# hi
-# hi
-# hi
-# hi
