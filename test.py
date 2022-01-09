@@ -14,5 +14,3 @@ Bill = Employee("Bill", 20)
 Bill.change_age(20,10)
 Bill.change_age_()
 print(Bill.age)
-
-# hi
